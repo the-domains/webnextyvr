@@ -1,0 +1,14 @@
+layout_spectrum: 0.7280095596797764
+typography_spectrum: 0.8688665435183793
+color:
+  brandStrength: 0.8536644261330366
+  lightness: 0.6017984554637223
+  saturation: 0.5334688143339008
+  rhythmicContrast: 0.4948803971055895
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: webnextYVR
